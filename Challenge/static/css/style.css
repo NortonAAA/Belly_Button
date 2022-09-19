@@ -1,0 +1,20 @@
+.jumbotron{
+    background-image: url("../../images/bacteria.jpg");
+    background-size: cover;
+    height: 100%;
+}
+.jumbotron.text-center h1, .jumbotron.text-center p {
+    text-shadow: 0 0 100px rgba(0, 0, 0, 0.867);
+    color: white;
+    outline-color: black;
+    outline-width:thick;
+}
+div p {
+    color: white;
+}
+div h2 {
+    color: white;
+}
+body {
+    background-color: darkslateblue;
+}
